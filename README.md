@@ -10,3 +10,17 @@ $brew cleanup
 $brew install python3
 ```
 
+## remove bottom border in React Navigation Header (v6)
+Navigator
+```
+screenOptions: {{
+  headerShadowVisible: false
+}}
+```
+
+Screen
+```
+options: {{
+  headerShadowVisible: false
+}}
+```
