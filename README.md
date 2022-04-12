@@ -1,6 +1,9 @@
 # devLife
 Some ideas and fixes for bugs i have come across as a developer
 
+
+`git checkout origin/master -- src/main/java/HelloWorld.java`
+
 https://stackoverflow.com/questions/31691626/cant-brew-install-node/34906259
 
 ## dyld: Library not loaded: @executable_path/../.Python
